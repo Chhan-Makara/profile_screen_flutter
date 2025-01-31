@@ -1,6 +1,7 @@
 # profile_screen_flutter
 
-A new Flutter project.
+This is exercise of creating profile screen with flutter.
+You can check my code here.
 
 ## Getting Started
 
